@@ -5,13 +5,13 @@
  Is a Fixed mindset, it believe that intelligence and talent are seen as stable traits, indicating that success comes from these inherent traits alone, without the need for further development or effort.
  
  **Here’s a simple Schedule highlighting the differences between a fixed and a growth mindset when faced with these difficulties :**
- ||growth maindset|fixed mindset|
- |---|----|----|
- |Challenges|Embraces|Avoids|
- |Obstacles|Persists|loses focus|
- |Effort|No pain, no gain|Views as fruitless|
- |Criticism|Learns from|Ignores|
- |Success of others|Is inspired by|Views as a threat|
+ Title|growth maindset|fixed mindset|
+ ---|----|----|
+ Challenges|Embraces|Avoids|
+ Obstacles|Persists|loses focus|
+ Effort|No pain, no gain|Views as fruitless|
+ Criticism|Learns from|Ignores|
+ Success of others|Is inspired by|Views as a threat|
 
 
 **Here’s a photo showing differences between a fixed and a growth mindset:**
