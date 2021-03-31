@@ -26,4 +26,4 @@ These is three Ways to Develop a Growth Mindset:
 name|title
 |---|---|
 read102|[summry](https://shahdaljalam.github.io/reading-notes/read102)
-read103|[summry](https://shahdaljalam.github.io/reading-notes/read103)
+read103|[summry](https://shahdaljalam.github.io/reading-notes/Read03)
