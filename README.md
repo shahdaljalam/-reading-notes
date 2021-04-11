@@ -1,32 +1,34 @@
-# **Growth mindset**
-## What is a growth mindset?
- develop  the basic capabilities of an individual  through perseverance and effort.
- ### What is the opposite of the growth mindset ? ###
- Is a Fixed mindset, it believe that intelligence and talent are seen as stable traits, indicating that success comes from these inherent traits alone, without the need for further development or effort.
- 
- **Here’s a simple Schedule highlighting the differences between a fixed and a growth mindset when faced with these difficulties:**
+# **Home Page** #
+# **Shahd Al-Jalam reading notes**
 
-Title|growth maindset|fixed mindset
-|---|----|----
-Challenges|Embraces|Avoids
-Obstacles|Persists|loses focus
-Effort|No pain, no gain|Views as fruitless
-Criticism|Learns from|Ignores
-Success of others|Is inspired by|Views as a threat
+![welcome](https://th.bing.com/th/id/OIP.whdyzfExKrmTmIADCXhNPQHaCh?w=350&h=119&c=7&o=5&dpr=1.25&pid=1.7)
+
+# code 201 reading notes #
+
+#|name|
+|---|----|
+1|[read01](read01.md)|
+2||
+3||
+4||
+5||
+7||
+8||
+9||
+10||
+11||
+12||
+13||
+14||
+15||
+
+# code 102 reading notes #
 
 
-**Here’s a photo showing differences between a fixed and a growth mindset:**
-
-![differences](https://ideapod.com/wp-content/uploads/2019/04/Fixed-vs-Growth_-The-two-basic-mindsets-that-shape-our-lives-compressor-1152x603.jpg)
-
-#### **how to keep myself in a growth mindset** ####
-These is three Ways to Develop a Growth Mindset:
-- Try different learning tactics.
-- View challenges as opportunities.
-- Replace the word “failing” with the word “learning.”
-
-Name|Title
+#|name
 |---|---|
-read102|[link](https://shahdaljalam.github.io/reading-notes/read102)
-Read03|[link](https://shahdaljalam.github.io/reading-notes/Read03)
-Read05|[link](https://shahdaljalam.github.io/reading-notes/read05)
+1|[read01](read102.md)
+1|[read02](https://shahdaljalam.github.io/reading-notes/read102)
+2|[Read03](https://shahdaljalam.github.io/reading-notes/Read03)
+3|[read04](/mnt/c/Users/STUDENT/desktop/amman-102d27/reading-notes/read04.md)
+3|[Read05](https://shahdaljalam.github.io/reading-notes/read05)
