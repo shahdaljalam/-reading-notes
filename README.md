@@ -28,10 +28,20 @@
 #|name
 |---|---|
 1|[read01](read102.md)
-1|[read02](https://shahdaljalam.github.io/reading-notes/read102)
-2|[Read03](https://shahdaljalam.github.io/reading-notes/Read03)
-3|[read04](/mnt/c/Users/STUDENT/desktop/amman-102d27/reading-notes/read04.md)
-3|[Read05](https://shahdaljalam.github.io/reading-notes/read05)
+2|[read02](class201read02.md)
+3|[read03](class201read03.md)
+4|[read04](class201read04.md)
+5|[read05](class201read05.md)
+6|[read06](class201read06.md)
+7|[read07](class201read07.md)
+8|[read08](class201read08.md)
+9|[read09](class201read09.md)
+10|[read10](class201read10.md)
+11|[read11](class201read11.md)
+12|[read12](class201read12.md)
+13|[read13](class201read13.md)
+14|[read14](class201read14.md)
+15|[read15](class201read15.md)
 
 
 # code 301 reading notes #
